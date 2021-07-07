@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ComposeApp</string>
+    <string name="title_activity_state">StateActivity</string>
+</resources>
