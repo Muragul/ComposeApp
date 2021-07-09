@@ -19,6 +19,7 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+
         </activity>
 
         <activity
@@ -30,6 +31,11 @@
             android:name=".StateActivity"
             android:exported="true"
             android:label="@string/title_activity_state"
+            android:theme="@style/Theme.ComposeApp.NoActionBar" />
+        <activity
+            android:name=".ConstraintsEffectsActivity"
+            android:exported="true"
+            android:label="@string/title_activity_constraints_effects"
             android:theme="@style/Theme.ComposeApp.NoActionBar" />
         <activity
             android:name=".MainActivity"
