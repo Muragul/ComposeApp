@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">ComposeApp</string>
     <string name="title_activity_state">StateActivity</string>
+    <string name="title_activity_snackbar">SnackbarActivity</string>
+    <string name="title_activity_list">ListActivity</string>
     <string name="title_activity_constraints_effecfts">ConstraintsEffecftsActivity</string>
 </resources>
