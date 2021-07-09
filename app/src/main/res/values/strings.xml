@@ -4,4 +4,5 @@
     <string name="title_activity_snackbar">SnackbarActivity</string>
     <string name="title_activity_list">ListActivity</string>
     <string name="title_activity_constraints_effects">ConstraintsEffecftsActivity</string>
+    <string name="title_activity_animation">AnimationActivity</string>
 </resources>
